@@ -13,7 +13,7 @@ And was created using Create REact APp
 > Framework: React Js
 
 ### Link to Rails Backend API
-> ## [BAckend Rails API](https://github.com/NabilHY/hello-rails-back-end)
+> ## [Backend Rails API](https://github.com/NabilHY/hello-rails-back-end)
 
 
 To get a local copy up and running follow these simple example steps.
