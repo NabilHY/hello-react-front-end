@@ -107,7 +107,7 @@ npm install --save-dev hint@6.x
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/NabilHY/hello-react-front-end/issues/new).
 
 ## Show your support
 
