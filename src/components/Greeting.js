@@ -13,7 +13,6 @@ function Greeting() {
   return (
     <div>
       <h1>{greeting}</h1>
-      <p>fefef</p>
     </div>
   );
 }
